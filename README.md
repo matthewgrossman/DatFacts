@@ -1,1 +1,1 @@
-Updating this soon maybe.
+An automated texting service stemming from Cat Facts.
